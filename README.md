@@ -2,7 +2,7 @@
 
 <img src="./public/MuscleMate.PNG" style="height: 400px; width: 100%; border-radius: 10px" />
 
-## Live Demo <link href="https://muscle-mate-app.vercel.app/" alt="Link"></link>
+## Live Demo <a href="https://muscle-mate-app.vercel.app/" alt="Link">https://muscle-mate-app.vercel.app/</a>
 
 ### Description.
 
